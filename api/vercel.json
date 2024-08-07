@@ -8,7 +8,7 @@
   ],
   "routes": [
      {
-     "src": "client/src/App.jsx",
+     "src": "/",
       "dest": "client/index.html" 
     }
   ]
